@@ -1,0 +1,4 @@
+pyside6~=6.0.4
+pyqt6~=6.1.0
+opencv-python~=4.5.2.54
+pyrebase~=3.0.27

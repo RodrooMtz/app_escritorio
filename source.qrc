@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="logo">
+    <file>foto_perfil.png</file>
+    <file>Fondo-Compu-blanco.png</file>
+    <file>Logo Resilience-03.png</file>
+    <file>Fondo-Compu.png</file>
+    <file>Logo Resilience-02.png</file>
+    <file>LogoRESILIENCE2.png</file>
+    <file>LogoRESILIENCE4.png</file>
+  </qresource>
+</RCC>
